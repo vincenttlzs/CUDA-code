@@ -27,4 +27,10 @@
 | [4.1GPU硬件资源](https://www.bilibili.com/video/BV1sM4y1x7of?p=16&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [4.2CUDA内存模型概述](https://www.bilibili.com/video/BV1sM4y1x7of?p=17&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 | [4.3寄存器和本地内存](https://www.bilibili.com/video/BV1sM4y1x7of?p=18&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
+| [4.4全局内存](https://www.bilibili.com/video/BV1sM4y1x7of?p=19&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
+| [4.5共享内存](https://www.bilibili.com/video/BV1sM4y1x7of?p=20&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
+| [4.6常量内存](https://www.bilibili.com/video/BV1sM4y1x7of?p=21&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
+| [4.8计算资源分配](https://www.bilibili.com/video/BV1sM4y1x7of?p=23&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
+| [4.9延迟隐藏](https://www.bilibili.com/video/BV1sM4y1x7of?p=24&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
+| [4.10避免线程束分化](https://www.bilibili.com/video/BV1sM4y1x7of?p=25&vd_source=51a76af86bf4fcc9da32a69c092094ea) |                            待更新                            |
 
